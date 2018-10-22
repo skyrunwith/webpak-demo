@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+    color:olivedrab;
+}
+.img{
+    background-image: url("../image/ask-ant-bg.jpg");
+    width: 456px;
+    height: 200px;
+}
